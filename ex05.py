@@ -1,0 +1,1 @@
+#Escreva uma função que receba um dicionário como entrada e retorna uma nova lista contendo apenas as chaves
